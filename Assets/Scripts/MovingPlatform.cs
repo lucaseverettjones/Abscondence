@@ -15,8 +15,10 @@ public class MovingPlatform : MonoBehaviour
     
     void Start()
     {
-        transform.position = points[0].position; // the platform starts at the first point
-
+        if (points.Length > 0)
+        {
+            transform.position = points[0].position; // the platform starts at the first point
+        }
         if (playerActivated) // if the platform is player activated, it stays still. if not, it starts moving to the next point right away.
         {
             moving = false;
@@ -29,7 +31,7 @@ public class MovingPlatform : MonoBehaviour
 
     void Update()
     {
-        if (moving)
+        if (moving && points.Length > 0)
         {
             transform.position = Vector3.MoveTowards(transform.position, points[i].position, speed * Time.deltaTime); // move towards the next point
             if (Vector3.Distance(transform.position, points[i].position) < 0.01f)
@@ -42,9 +44,9 @@ public class MovingPlatform : MonoBehaviour
         }
     }
 
-    private void OnTriggerEnter(Collider other)
+    private void OnCollisionEnter(Collision other)
     {
-        if (other.CompareTag("Player")) // when the player lands on the platform, parent the player to the platform so the platform carries the player along
+        if (other.gameObject.CompareTag("Player")) // when the player lands on the platform, parent the player to the platform so the platform carries the player along
         {
             other.transform.parent = this.transform;
             if (playerActivated) // if the platform is player activated, it starts moving when the player lands on it
@@ -55,9 +57,9 @@ public class MovingPlatform : MonoBehaviour
         }
     }
 
-    private void OnTriggerExit(Collider other)
+    private void OnCollisionExit(Collision other)
     {
-        if (other.CompareTag("Player")) // when the player leaves the platform, unparent the player so the platform does not influence their movement
+        if (other.gameObject.CompareTag("Player")) // when the player leaves the platform, unparent the player so the platform does not influence their movement
         {
             other.transform.parent = null;
         }
