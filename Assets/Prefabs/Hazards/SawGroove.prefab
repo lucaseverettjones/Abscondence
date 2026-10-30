@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 3788695518246954099}
   m_Layer: 0
   m_Name: SawGroove
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
