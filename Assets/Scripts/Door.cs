@@ -7,8 +7,8 @@ public class Door : MonoBehaviour
     private bool closed = true; // if the door has not been opened
     [SerializeField] private bool locked; // if the door needs a key to open
     private Animator anim;
-    [SerializeField] GameObject minimapDoorObj;
-    [SerializeField] Material unlockedDoorMat;
+    //[SerializeField] GameObject minimapDoorObj;
+    //[SerializeField] Material unlockedDoorMat;
 
     void Start()
     {
@@ -23,7 +23,7 @@ public class Door : MonoBehaviour
             {
                 Open();
                 collision.gameObject.GetComponent<PlayerCollision>().keys--;
-                minimapDoorObj.GetComponent<Renderer>().material = unlockedDoorMat;
+                //minimapDoorObj.GetComponent<Renderer>().material = unlockedDoorMat;
             }
             else if (!locked)
             {
