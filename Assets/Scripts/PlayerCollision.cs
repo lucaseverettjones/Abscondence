@@ -46,7 +46,7 @@ public class PlayerCollision : MonoBehaviour
     }
     private void OnCollisionEnter(Collision collision)
     {
-        if (collision.gameObject.CompareTag("Hazard") && !player.godMode) // if the player touches a hazard, they die (incomplete)
+        if (collision.gameObject.CompareTag("Hazard") && !player.godMode && player.canMove) // if the player touches a hazard, they die (incomplete)
         {
             anim.SetBool("Dead", true); // start death animation
             player.canMove = false; // stop the player from moving
