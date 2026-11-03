@@ -15,7 +15,7 @@ public class Sawblades : MonoBehaviour
         foreach (Transform child in children)
         {
             child.gameObject.SetActive(true);
-            yield return new WaitForSeconds(2);
+            yield return new WaitForSeconds(0.75f);
         }
     }
 }
