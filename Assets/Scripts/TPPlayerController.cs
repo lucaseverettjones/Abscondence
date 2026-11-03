@@ -102,7 +102,7 @@ public class TPPlayerController : MonoBehaviour
             canJump= true;
             anim.SetBool("Grounded", true);
         }
-        else if (canJump)
+        else if (canJump && !collision.gameObject.CompareTag("Ground"))
         {
             anim.SetBool("Collide", true);
         }
