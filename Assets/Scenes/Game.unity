@@ -9418,6 +9418,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: MaxDistance
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: MinDistance
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: rolloffMode
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7023764235095723285, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
       propertyPath: m_Name
       value: WallDoorway 1 (1)
@@ -10318,6 +10330,14 @@ PrefabInstance:
     - target: {fileID: -841625110247249385, guid: 4d3c14c697a801741a1425b98516f4e0, type: 3}
       propertyPath: MaxDistance
       value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: -841625110247249385, guid: 4d3c14c697a801741a1425b98516f4e0, type: 3}
+      propertyPath: MinDistance
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: -841625110247249385, guid: 4d3c14c697a801741a1425b98516f4e0, type: 3}
+      propertyPath: rolloffMode
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 249918362937353858, guid: 4d3c14c697a801741a1425b98516f4e0, type: 3}
       propertyPath: m_LocalPosition.x
@@ -12017,6 +12037,14 @@ PrefabInstance:
     - target: {fileID: -841625110247249385, guid: 4d3c14c697a801741a1425b98516f4e0, type: 3}
       propertyPath: MaxDistance
       value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: -841625110247249385, guid: 4d3c14c697a801741a1425b98516f4e0, type: 3}
+      propertyPath: MinDistance
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: -841625110247249385, guid: 4d3c14c697a801741a1425b98516f4e0, type: 3}
+      propertyPath: rolloffMode
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 249918362937353858, guid: 4d3c14c697a801741a1425b98516f4e0, type: 3}
       propertyPath: m_LocalPosition.y
@@ -19700,6 +19728,14 @@ PrefabInstance:
       propertyPath: MaxDistance
       value: 10
       objectReference: {fileID: 0}
+    - target: {fileID: -841625110247249385, guid: 4d3c14c697a801741a1425b98516f4e0, type: 3}
+      propertyPath: MinDistance
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: -841625110247249385, guid: 4d3c14c697a801741a1425b98516f4e0, type: 3}
+      propertyPath: rolloffMode
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 249918362937353858, guid: 4d3c14c697a801741a1425b98516f4e0, type: 3}
       propertyPath: m_LocalPosition.x
       value: -15
@@ -26327,6 +26363,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: MaxDistance
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: MinDistance
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: rolloffMode
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7023764235095723285, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
       propertyPath: m_Name
       value: WallDoorway 1 (11)
@@ -29259,6 +29307,14 @@ PrefabInstance:
     - target: {fileID: -638527886434420689, guid: 6916aaa465992364c9a443f49fefe193, type: 3}
       propertyPath: MaxDistance
       value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: -638527886434420689, guid: 6916aaa465992364c9a443f49fefe193, type: 3}
+      propertyPath: MinDistance
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: -638527886434420689, guid: 6916aaa465992364c9a443f49fefe193, type: 3}
+      propertyPath: rolloffMode
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2092813274658716766, guid: 6916aaa465992364c9a443f49fefe193, type: 3}
       propertyPath: m_LocalPosition.x
@@ -34311,6 +34367,14 @@ PrefabInstance:
     - target: {fileID: -841625110247249385, guid: 4d3c14c697a801741a1425b98516f4e0, type: 3}
       propertyPath: MaxDistance
       value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: -841625110247249385, guid: 4d3c14c697a801741a1425b98516f4e0, type: 3}
+      propertyPath: MinDistance
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: -841625110247249385, guid: 4d3c14c697a801741a1425b98516f4e0, type: 3}
+      propertyPath: rolloffMode
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 249918362937353858, guid: 4d3c14c697a801741a1425b98516f4e0, type: 3}
       propertyPath: m_LocalPosition.y
@@ -41775,6 +41839,14 @@ PrefabInstance:
       propertyPath: MaxDistance
       value: 10
       objectReference: {fileID: 0}
+    - target: {fileID: -841625110247249385, guid: 4d3c14c697a801741a1425b98516f4e0, type: 3}
+      propertyPath: MinDistance
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: -841625110247249385, guid: 4d3c14c697a801741a1425b98516f4e0, type: 3}
+      propertyPath: rolloffMode
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 249918362937353858, guid: 4d3c14c697a801741a1425b98516f4e0, type: 3}
       propertyPath: m_LocalPosition.x
       value: -15
@@ -43122,6 +43194,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: MaxDistance
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: MinDistance
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: rolloffMode
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7023764235095723285, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
       propertyPath: m_Name
       value: WallDoor
@@ -45012,6 +45096,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: MaxDistance
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: MinDistance
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: rolloffMode
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7023764235095723285, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
       propertyPath: m_Name
       value: WallDoor (1)
@@ -49576,6 +49672,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: MaxDistance
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: MinDistance
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: rolloffMode
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7023764235095723285, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
       propertyPath: m_Name
       value: WallDoorway 1 (10)
@@ -52069,10 +52177,10 @@ AudioSource:
   SpatializePostEffects: 0
   Priority: 128
   DopplerLevel: 1
-  MinDistance: 1
-  MaxDistance: 500
+  MinDistance: 6
+  MaxDistance: 10
   Pan2D: 0
-  rolloffMode: 0
+  rolloffMode: 1
   BypassEffects: 0
   BypassListenerEffects: 0
   BypassReverbZones: 0
@@ -60838,6 +60946,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Lava (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 7100573291675011097, guid: e7b0f4d5448861b4395cc27cd72c3f12, type: 3}
+      propertyPath: MaxDistance
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 7100573291675011097, guid: e7b0f4d5448861b4395cc27cd72c3f12, type: 3}
+      propertyPath: MinDistance
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7100573291675011097, guid: e7b0f4d5448861b4395cc27cd72c3f12, type: 3}
+      propertyPath: rolloffMode
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7510553053541852565, guid: e7b0f4d5448861b4395cc27cd72c3f12, type: 3}
       propertyPath: m_LocalScale.x
       value: 9
@@ -62251,6 +62371,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: MaxDistance
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: MinDistance
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: rolloffMode
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7023764235095723285, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
       propertyPath: m_Name
       value: WallDoorway 1 (18)
@@ -62893,6 +63025,14 @@ PrefabInstance:
     - target: {fileID: -638527886434420689, guid: 6916aaa465992364c9a443f49fefe193, type: 3}
       propertyPath: MaxDistance
       value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: -638527886434420689, guid: 6916aaa465992364c9a443f49fefe193, type: 3}
+      propertyPath: MinDistance
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: -638527886434420689, guid: 6916aaa465992364c9a443f49fefe193, type: 3}
+      propertyPath: rolloffMode
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2092813274658716766, guid: 6916aaa465992364c9a443f49fefe193, type: 3}
       propertyPath: m_LocalPosition.x
@@ -66117,6 +66257,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: MaxDistance
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: MinDistance
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: rolloffMode
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7023764235095723285, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
       propertyPath: m_Name
       value: WallDoorway 1 (12)
@@ -69496,6 +69648,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: MaxDistance
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: MinDistance
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: rolloffMode
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7023764235095723285, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
       propertyPath: m_Name
       value: WallDoorway 1 (5)
@@ -72367,10 +72531,10 @@ AudioSource:
   SpatializePostEffects: 0
   Priority: 128
   DopplerLevel: 1
-  MinDistance: 1
-  MaxDistance: 500
+  MinDistance: 6
+  MaxDistance: 10
   Pan2D: 0
-  rolloffMode: 0
+  rolloffMode: 1
   BypassEffects: 0
   BypassListenerEffects: 0
   BypassReverbZones: 0
@@ -73582,6 +73746,14 @@ PrefabInstance:
       propertyPath: MaxDistance
       value: 10
       objectReference: {fileID: 0}
+    - target: {fileID: -841625110247249385, guid: 4d3c14c697a801741a1425b98516f4e0, type: 3}
+      propertyPath: MinDistance
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: -841625110247249385, guid: 4d3c14c697a801741a1425b98516f4e0, type: 3}
+      propertyPath: rolloffMode
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 249918362937353858, guid: 4d3c14c697a801741a1425b98516f4e0, type: 3}
       propertyPath: m_LocalPosition.x
       value: -15
@@ -74108,6 +74280,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: MaxDistance
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: MinDistance
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: rolloffMode
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7023764235095723285, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
       propertyPath: m_Name
       value: WallDoorway 1 (3)
@@ -76800,6 +76984,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: MaxDistance
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: MinDistance
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: rolloffMode
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7023764235095723285, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
       propertyPath: m_Name
       value: WallDoorway 1 (9)
@@ -78738,6 +78934,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: MaxDistance
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: MinDistance
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: rolloffMode
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7023764235095723285, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
       propertyPath: m_Name
       value: WallDoorway 1 (14)
@@ -80221,6 +80429,14 @@ PrefabInstance:
     - target: {fileID: -638527886434420689, guid: 6916aaa465992364c9a443f49fefe193, type: 3}
       propertyPath: MaxDistance
       value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: -638527886434420689, guid: 6916aaa465992364c9a443f49fefe193, type: 3}
+      propertyPath: MinDistance
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: -638527886434420689, guid: 6916aaa465992364c9a443f49fefe193, type: 3}
+      propertyPath: rolloffMode
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2092813274658716766, guid: 6916aaa465992364c9a443f49fefe193, type: 3}
       propertyPath: m_LocalPosition.x
@@ -94390,6 +94606,18 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 7100573291675011097, guid: e7b0f4d5448861b4395cc27cd72c3f12, type: 3}
+      propertyPath: MaxDistance
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 7100573291675011097, guid: e7b0f4d5448861b4395cc27cd72c3f12, type: 3}
+      propertyPath: MinDistance
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7100573291675011097, guid: e7b0f4d5448861b4395cc27cd72c3f12, type: 3}
+      propertyPath: rolloffMode
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7510553053541852565, guid: e7b0f4d5448861b4395cc27cd72c3f12, type: 3}
       propertyPath: m_LocalScale.x
       value: 35
@@ -99468,6 +99696,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: MaxDistance
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: MinDistance
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: rolloffMode
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7023764235095723285, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
       propertyPath: m_Name
       value: WallDoorway 1 (13)
@@ -108008,6 +108248,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: MaxDistance
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: MinDistance
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: rolloffMode
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7023764235095723285, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
       propertyPath: m_Name
       value: WallDoorway 1 (2)
@@ -112934,10 +113186,10 @@ AudioSource:
   SpatializePostEffects: 0
   Priority: 128
   DopplerLevel: 1
-  MinDistance: 1
-  MaxDistance: 500
+  MinDistance: 6
+  MaxDistance: 10
   Pan2D: 0
-  rolloffMode: 0
+  rolloffMode: 1
   BypassEffects: 0
   BypassListenerEffects: 0
   BypassReverbZones: 0
@@ -120371,10 +120623,10 @@ AudioSource:
   SpatializePostEffects: 0
   Priority: 128
   DopplerLevel: 1
-  MinDistance: 1
-  MaxDistance: 500
+  MinDistance: 6
+  MaxDistance: 10
   Pan2D: 0
-  rolloffMode: 0
+  rolloffMode: 1
   BypassEffects: 0
   BypassListenerEffects: 0
   BypassReverbZones: 0
@@ -121839,6 +122091,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: MaxDistance
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: MinDistance
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: rolloffMode
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7023764235095723285, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
       propertyPath: m_Name
       value: WallDoorway 1
@@ -130099,6 +130363,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Lava (31)
       objectReference: {fileID: 0}
+    - target: {fileID: 7100573291675011097, guid: e7b0f4d5448861b4395cc27cd72c3f12, type: 3}
+      propertyPath: MaxDistance
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 7100573291675011097, guid: e7b0f4d5448861b4395cc27cd72c3f12, type: 3}
+      propertyPath: MinDistance
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7100573291675011097, guid: e7b0f4d5448861b4395cc27cd72c3f12, type: 3}
+      propertyPath: rolloffMode
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7510553053541852565, guid: e7b0f4d5448861b4395cc27cd72c3f12, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.3
@@ -133982,6 +134258,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: MaxDistance
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: MinDistance
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: rolloffMode
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7023764235095723285, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
       propertyPath: m_Name
       value: WallDoorway 1 (20)
@@ -134661,6 +134949,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: MaxDistance
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: MinDistance
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: rolloffMode
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7023764235095723285, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
       propertyPath: m_Name
       value: WallDoorway 1 (21)
@@ -145312,10 +145612,10 @@ AudioSource:
   SpatializePostEffects: 0
   Priority: 128
   DopplerLevel: 1
-  MinDistance: 1
-  MaxDistance: 500
+  MinDistance: 6
+  MaxDistance: 10
   Pan2D: 0
-  rolloffMode: 0
+  rolloffMode: 1
   BypassEffects: 0
   BypassListenerEffects: 0
   BypassReverbZones: 0
@@ -151117,10 +151417,10 @@ AudioSource:
   SpatializePostEffects: 0
   Priority: 128
   DopplerLevel: 1
-  MinDistance: 1
-  MaxDistance: 500
+  MinDistance: 6
+  MaxDistance: 10
   Pan2D: 0
-  rolloffMode: 0
+  rolloffMode: 1
   BypassEffects: 0
   BypassListenerEffects: 0
   BypassReverbZones: 0
@@ -161841,10 +162141,10 @@ AudioSource:
   SpatializePostEffects: 0
   Priority: 128
   DopplerLevel: 1
-  MinDistance: 1
-  MaxDistance: 500
+  MinDistance: 6
+  MaxDistance: 10
   Pan2D: 0
-  rolloffMode: 0
+  rolloffMode: 1
   BypassEffects: 0
   BypassListenerEffects: 0
   BypassReverbZones: 0
@@ -164982,6 +165282,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: MaxDistance
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: MinDistance
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: rolloffMode
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7023764235095723285, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
       propertyPath: m_Name
       value: WallDoorway 1 (15)
@@ -168971,6 +169283,18 @@ PrefabInstance:
       propertyPath: unlockedDoorMat
       value: 
       objectReference: {fileID: 2100000, guid: b4d33ab1264357c459f2f52a6c598d38, type: 2}
+    - target: {fileID: 8117983885939178428, guid: 88c862c72a2c80f45bb458a2fcd35308, type: 3}
+      propertyPath: MaxDistance
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 8117983885939178428, guid: 88c862c72a2c80f45bb458a2fcd35308, type: 3}
+      propertyPath: MinDistance
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 8117983885939178428, guid: 88c862c72a2c80f45bb458a2fcd35308, type: 3}
+      propertyPath: rolloffMode
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8235095924180544987, guid: 88c862c72a2c80f45bb458a2fcd35308, type: 3}
       propertyPath: minimapDoorObj
       value: 
@@ -171624,10 +171948,10 @@ AudioSource:
   SpatializePostEffects: 0
   Priority: 128
   DopplerLevel: 1
-  MinDistance: 1
-  MaxDistance: 500
+  MinDistance: 6
+  MaxDistance: 10
   Pan2D: 0
-  rolloffMode: 0
+  rolloffMode: 1
   BypassEffects: 0
   BypassListenerEffects: 0
   BypassReverbZones: 0
@@ -173157,6 +173481,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: MaxDistance
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: MinDistance
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: rolloffMode
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7023764235095723285, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
       propertyPath: m_Name
       value: WallDoorway 1 (6)
@@ -174249,6 +174585,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: MaxDistance
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: MinDistance
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: rolloffMode
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7023764235095723285, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
       propertyPath: m_Name
       value: WallDoorway 1 (19)
@@ -182390,6 +182738,18 @@ PrefabInstance:
       propertyPath: unlockedDoorMat
       value: 
       objectReference: {fileID: 2100000, guid: b4d33ab1264357c459f2f52a6c598d38, type: 2}
+    - target: {fileID: 8117983885939178428, guid: 88c862c72a2c80f45bb458a2fcd35308, type: 3}
+      propertyPath: MaxDistance
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 8117983885939178428, guid: 88c862c72a2c80f45bb458a2fcd35308, type: 3}
+      propertyPath: MinDistance
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 8117983885939178428, guid: 88c862c72a2c80f45bb458a2fcd35308, type: 3}
+      propertyPath: rolloffMode
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8235095924180544987, guid: 88c862c72a2c80f45bb458a2fcd35308, type: 3}
       propertyPath: minimapDoorObj
       value: 
@@ -184170,10 +184530,10 @@ AudioSource:
   SpatializePostEffects: 0
   Priority: 128
   DopplerLevel: 1
-  MinDistance: 1
-  MaxDistance: 500
+  MinDistance: 6
+  MaxDistance: 10
   Pan2D: 0
-  rolloffMode: 0
+  rolloffMode: 1
   BypassEffects: 0
   BypassListenerEffects: 0
   BypassReverbZones: 0
@@ -185529,10 +185889,10 @@ AudioSource:
   SpatializePostEffects: 0
   Priority: 128
   DopplerLevel: 1
-  MinDistance: 1
-  MaxDistance: 500
+  MinDistance: 6
+  MaxDistance: 10
   Pan2D: 0
-  rolloffMode: 0
+  rolloffMode: 1
   BypassEffects: 0
   BypassListenerEffects: 0
   BypassReverbZones: 0
@@ -191223,6 +191583,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: MaxDistance
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: MinDistance
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: rolloffMode
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7023764235095723285, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
       propertyPath: m_Name
       value: WallDoorway 1 (4)
@@ -196222,10 +196594,10 @@ AudioSource:
   SpatializePostEffects: 0
   Priority: 128
   DopplerLevel: 1
-  MinDistance: 1
-  MaxDistance: 500
+  MinDistance: 6
+  MaxDistance: 10
   Pan2D: 0
-  rolloffMode: 0
+  rolloffMode: 1
   BypassEffects: 0
   BypassListenerEffects: 0
   BypassReverbZones: 0
@@ -197945,6 +198317,14 @@ PrefabInstance:
     - target: {fileID: -841625110247249385, guid: 4d3c14c697a801741a1425b98516f4e0, type: 3}
       propertyPath: MaxDistance
       value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: -841625110247249385, guid: 4d3c14c697a801741a1425b98516f4e0, type: 3}
+      propertyPath: MinDistance
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: -841625110247249385, guid: 4d3c14c697a801741a1425b98516f4e0, type: 3}
+      propertyPath: rolloffMode
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 249918362937353858, guid: 4d3c14c697a801741a1425b98516f4e0, type: 3}
       propertyPath: m_LocalPosition.y
@@ -202938,10 +203318,10 @@ AudioSource:
   SpatializePostEffects: 0
   Priority: 128
   DopplerLevel: 1
-  MinDistance: 1
-  MaxDistance: 500
+  MinDistance: 6
+  MaxDistance: 10
   Pan2D: 0
-  rolloffMode: 0
+  rolloffMode: 1
   BypassEffects: 0
   BypassListenerEffects: 0
   BypassReverbZones: 0
@@ -203153,10 +203533,10 @@ AudioSource:
   SpatializePostEffects: 0
   Priority: 128
   DopplerLevel: 1
-  MinDistance: 1
-  MaxDistance: 500
+  MinDistance: 6
+  MaxDistance: 10
   Pan2D: 0
-  rolloffMode: 0
+  rolloffMode: 1
   BypassEffects: 0
   BypassListenerEffects: 0
   BypassReverbZones: 0
@@ -203591,6 +203971,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: MaxDistance
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: MinDistance
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: rolloffMode
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7023764235095723285, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
       propertyPath: m_Name
       value: WallDoorway 1 (16)
@@ -203917,6 +204309,18 @@ PrefabInstance:
     - target: {fileID: 5682758574413254476, guid: e7b0f4d5448861b4395cc27cd72c3f12, type: 3}
       propertyPath: m_Name
       value: Lava (30)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7100573291675011097, guid: e7b0f4d5448861b4395cc27cd72c3f12, type: 3}
+      propertyPath: MaxDistance
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 7100573291675011097, guid: e7b0f4d5448861b4395cc27cd72c3f12, type: 3}
+      propertyPath: MinDistance
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7100573291675011097, guid: e7b0f4d5448861b4395cc27cd72c3f12, type: 3}
+      propertyPath: rolloffMode
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7510553053541852565, guid: e7b0f4d5448861b4395cc27cd72c3f12, type: 3}
       propertyPath: m_LocalScale.x
@@ -206379,10 +206783,10 @@ AudioSource:
   SpatializePostEffects: 0
   Priority: 128
   DopplerLevel: 1
-  MinDistance: 1
-  MaxDistance: 500
+  MinDistance: 6
+  MaxDistance: 10
   Pan2D: 0
-  rolloffMode: 0
+  rolloffMode: 1
   BypassEffects: 0
   BypassListenerEffects: 0
   BypassReverbZones: 0
@@ -208268,6 +208672,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: MaxDistance
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: MinDistance
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: rolloffMode
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7023764235095723285, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
       propertyPath: m_Name
       value: WallDoorway 1 (8)
@@ -209853,10 +210269,10 @@ AudioSource:
   SpatializePostEffects: 0
   Priority: 128
   DopplerLevel: 1
-  MinDistance: 1
-  MaxDistance: 500
+  MinDistance: 6
+  MaxDistance: 10
   Pan2D: 0
-  rolloffMode: 0
+  rolloffMode: 1
   BypassEffects: 0
   BypassListenerEffects: 0
   BypassReverbZones: 0
@@ -213477,10 +213893,10 @@ AudioSource:
   SpatializePostEffects: 0
   Priority: 128
   DopplerLevel: 1
-  MinDistance: 1
-  MaxDistance: 500
+  MinDistance: 6
+  MaxDistance: 10
   Pan2D: 0
-  rolloffMode: 0
+  rolloffMode: 1
   BypassEffects: 0
   BypassListenerEffects: 0
   BypassReverbZones: 0
@@ -226983,10 +227399,10 @@ AudioSource:
   SpatializePostEffects: 0
   Priority: 128
   DopplerLevel: 1
-  MinDistance: 1
-  MaxDistance: 500
+  MinDistance: 6
+  MaxDistance: 10
   Pan2D: 0
-  rolloffMode: 0
+  rolloffMode: 1
   BypassEffects: 0
   BypassListenerEffects: 0
   BypassReverbZones: 0
@@ -228118,6 +228534,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: MaxDistance
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: MinDistance
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4207733716210050072, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
+      propertyPath: rolloffMode
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7023764235095723285, guid: 8d44c61f146604c4cb679ea46cefc079, type: 3}
       propertyPath: m_Name
       value: WallDoorway 1 (7)
@@ -232167,10 +232595,10 @@ AudioSource:
   SpatializePostEffects: 0
   Priority: 128
   DopplerLevel: 1
-  MinDistance: 1
-  MaxDistance: 500
+  MinDistance: 6
+  MaxDistance: 10
   Pan2D: 0
-  rolloffMode: 0
+  rolloffMode: 1
   BypassEffects: 0
   BypassListenerEffects: 0
   BypassReverbZones: 0
@@ -233000,6 +233428,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 136.2841
       objectReference: {fileID: 0}
+    - target: {fileID: 4041457344427758795, guid: 9f4edd1af47671045bd813b83c1e88de, type: 3}
+      propertyPath: MaxDistance
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4041457344427758795, guid: 9f4edd1af47671045bd813b83c1e88de, type: 3}
+      propertyPath: MinDistance
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4041457344427758795, guid: 9f4edd1af47671045bd813b83c1e88de, type: 3}
+      propertyPath: rolloffMode
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4054050098366396279, guid: 9f4edd1af47671045bd813b83c1e88de, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 1.048726
@@ -233443,6 +233883,14 @@ PrefabInstance:
       propertyPath: MaxDistance
       value: 10
       objectReference: {fileID: 0}
+    - target: {fileID: -841625110247249385, guid: 4d3c14c697a801741a1425b98516f4e0, type: 3}
+      propertyPath: MinDistance
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: -841625110247249385, guid: 4d3c14c697a801741a1425b98516f4e0, type: 3}
+      propertyPath: rolloffMode
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 543601901819557886, guid: 4d3c14c697a801741a1425b98516f4e0, type: 3}
       propertyPath: m_Name
       value: SawBlade
@@ -233569,9 +234017,21 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: -8660831278035892398, guid: f5fffe881b6f59347894ea901feeb848, type: 3}
+      propertyPath: MaxDistance
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: -8660831278035892398, guid: f5fffe881b6f59347894ea901feeb848, type: 3}
+      propertyPath: MinDistance
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: -8660831278035892398, guid: f5fffe881b6f59347894ea901feeb848, type: 3}
       propertyPath: m_audioClip
       value: 
       objectReference: {fileID: 8300000, guid: 2c141bbb04e599042a22c382eeeb5b58, type: 3}
+    - target: {fileID: -8660831278035892398, guid: f5fffe881b6f59347894ea901feeb848, type: 3}
+      propertyPath: rolloffMode
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6013839408343563083, guid: f5fffe881b6f59347894ea901feeb848, type: 3}
       propertyPath: m_LocalPosition.x
       value: 13
